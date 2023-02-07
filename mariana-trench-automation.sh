@@ -5,7 +5,6 @@ printf " __   __   ___  ___  __           ___          __
 .__/ |    |___ |___ |__/     |  |  |     \__/ |    
                                                    \n\n"
 
-cd /Users/user/Tools/mariana-trench
 
 ORANGE='\033[0;33m'
 LIGHT_GREEN='\033[1;32m'
